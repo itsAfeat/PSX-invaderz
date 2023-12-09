@@ -1,0 +1,12 @@
+[TIM Files]
+File_0=E:\Programming\PS1\Projects\Invaderz\TIMs\ALIEN1.TIM
+File_1=E:\Programming\PS1\Projects\Invaderz\TIMs\FONT8X16.TIM
+File_2=E:\Programming\PS1\Projects\Invaderz\TIMs\PLAYER.TIM
+File_3=E:\Programming\PS1\Projects\Invaderz\TIMs\TITLE.TIM
+File_4=E:\Programming\PS1\Projects\Invaderz\TIMs\WALLBRKN.TIM
+File_5=E:\Programming\PS1\Projects\Invaderz\TIMs\WALLFULL.TIM
+File_6=E:\Programming\PS1\Projects\Invaderz\TIMs\WALLHIT.TIM
+File_7=E:\Programming\PS1\Projects\Invaderz\TIMs\WALLRUIN.TIM
+[Graphics Mode]
+Width=320
+Height=256
